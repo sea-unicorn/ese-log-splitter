@@ -1,6 +1,6 @@
 Are you too lazy to maintain your log file? Got 2 weeks of logs accumulated in the same file? Feeling sad that ESO Logs Uploader split feature does not actually work? Here is a solution for you. ESO Logs splitter tool that is capable to split any size of ESO Log file so long as you have space.
 
-##Usage guide:
+**Usage guide:**
 
 1. Open it
 2. Click "Browse" and find the ESO Encounter.log file
@@ -11,6 +11,6 @@ Are you too lazy to maintain your log file? Got 2 weeks of logs accumulated in t
 7. Do not forget to delete the original and split files after you done uploading them. If you happen to select invalid file - it will just copy it over to the "To upload" directory.
 8. If you do not have enough disk space it will probably break as I do not have error handling for that.
 
-##Notes: 
+**Notes:**
 
 It will make a config file that helps is to remember selected ESO Log file from the previous operation. If you delete it - you will have to manually navigate to the log file next time you open it.
