@@ -14,3 +14,5 @@ Are you too lazy to maintain your log file? Got 2 weeks of logs accumulated in t
 **Notes:**
 
 It will make a config file that helps is to remember selected ESO Log file from the previous operation. If you delete it - you will have to manually navigate to the log file next time you open it.
+Script is made with Python 3.8
+You do need a python compiler to compile the script into executable. Such as Pyinstaller.
